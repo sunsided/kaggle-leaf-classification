@@ -71,7 +71,7 @@ A fork of the Kaggle Leaf Classification competition.
 >
 > ### Data fields
 >
-> `id` - an anonymous id unique to an image
-> `margin_1`, `margin_2`, `margin_3`, ..., `margin_64` - each of the 64 attribute vectors for the margin feature
-> `shape_1`, `shape_2`, `shape_3`, ..., `shape_64` - each of the 64 attribute vectors for the shape feature
-> `texture_1`, `texture_2`, `texture_3`, ..., `texture_64` - each of the 64 attribute vectors for the texture feature
+> * `id` - an anonymous id unique to an image
+> * `margin_1`, `margin_2`, `margin_3`, ..., `margin_64` - each of the 64 attribute vectors for the margin feature
+> * `shape_1`, `shape_2`, `shape_3`, ..., `shape_64` - each of the 64 attribute vectors for the shape feature
+> * `texture_1`, `texture_2`, `texture_3`, ..., `texture_64` - each of the 64 attribute vectors for the texture feature
